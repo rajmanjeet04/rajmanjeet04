@@ -3,10 +3,9 @@
 
 Frontend Developer
 ------------------
+I am a frontend developer who loves react !
 
-                                                                               I am a frontend developer who loves react !
-
-                                                                       *  🎓 I am currently studying at Chandigarh University
+*  🎓 I am currently studying at Chandigarh University
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manjeetraj29276@gmail.com](mailto:manjeetraj29276@gmail.com)
 * 🧠  I'm currently learning DSA , HTML , CSS
