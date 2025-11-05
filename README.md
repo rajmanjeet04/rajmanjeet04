@@ -1,4 +1,4 @@
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is MANJEET KUMAR
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm is MANJEET KUMAR
 ======================================================================================================================================
 
 Frontend Developer
@@ -6,9 +6,10 @@ Frontend Developer
 
 I am a frontend developer who loves react !
 
+*  🎓 I am currently studying at Chandigarh University
 * 🌍  I'm based in India
 * ✉️  You can contact me at [manjeetraj29276@gmail.com](mailto:manjeetraj29276@gmail.com)
-* 🧠  I'm currently learning HTML , CSS
+* 🧠  I'm currently learning DSA , HTML , CSS
 * 👥  I'm looking to collaborate on Projects
 * 💬  Ask me about I Am Batman , Tell Everyone
 
